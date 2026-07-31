@@ -1,0 +1,19 @@
+# Carpeta de cobertura de pruebas
+coverage
+
+# Dependencias
+node_modules
+
+# Archivos públicos
+public
+
+# Salida de Next.js
+.next
+
+# Compilación
+out
+
+# Archivos de bloqueo
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
