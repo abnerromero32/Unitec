@@ -1,0 +1,84 @@
+
+
+
+
+
+{
+  "privado": true,
+  "código crítico": {
+    "dependencias": [
+      "siguiente",
+      "reaccionar",
+      "react-dom",
+      "@headwise/component-tagger",
+      "@tailwindcss/tipografía",
+      "recartos"
+    ],
+    "dependencias de desarrollo": [
+      "guión tipográfico",
+      "@tipos/nodo",
+      "@tipos/reaccionar",
+      "@tipos/react-dom",
+      "@typescript-eslint/eslint-plugin",
+      "@typescript-eslint/analizador",
+      "eslint-config-siguiente",
+      "tailwindcss",
+      "prefijador automático",
+      "postcss",
+      "eslint",
+      "más bonito",
+      "@netlify/plugin-nextjs"
+    ],
+    "guiones": [
+      "dev",
+      "construir",
+      "iniciar",
+      "pelusa",
+      "pelusa:arreglar",
+      "formato",
+      "servir",
+      "verificación de tipo"
+    ],
+    "advertencia": "⚠️ CRITICO: NO ELIMINE NI MODIFIQUE LAS DEPENDENCIAS ANTERIORES - Requerido."
+  },
+  "guiones": {
+    "dev": "siguiente dev -p 4028",
+    "build": "próxima compilación",
+    "inicio": "siguiente desarrollo -p 4028",
+    "pelusa": "siguiente pelusa",
+    "lint:fix": "siguiente pelusa --fix",
+    "formato": "más bonito --escribe \"src/**/*.{ts,tsx,css,md,json}\"",
+    "servir": "próximo comienzo",
+    "verificación de tipo": "tsc --noEmit"
+  },
+  "dependencias": {
+    "@headwise/component-tagger": "^1.0.16",
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/formularios": "^0.5.10",
+    "@tailwindcss/tipografía": "^0.5.16",
+    "siguiente": "15.5.18",
+    "reaccionar": "^19.0.3",
+    "react-dom": "^19.0.3",
+    "recartos": "^2.15.2",
+    "reaccion al lucido": "^1.7.0"
+  },
+  "dependencias de desarrollo": {
+    "@eslint/eslintr": "^3",
+    "@netlify/plugin-nextjs": "^5.11.1",
+    "@types/node": "^20",
+    "@types/react": "^19.0.3",
+    "@types/react-dom": "^19.0.3",
+    "@typescript-eslint/eslint-plugin": "^8.29.0",
+    "@typescript-eslint/parser": "^8.29.0",
+    "prefijador automático": "^10.4.2",
+    "eslint": "^9",
+    "eslint-config-next": "^15.2.4",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-prettier": "^5.2.6",
+    "postcss": "^8.4.8",
+    "más bonito": "^3.5.3",
+    "tailwindcss": "^3.4.6",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5"
+  }
+}
